@@ -1,0 +1,4 @@
+pymatgen
+mendeleev
+pandas
+plotly
